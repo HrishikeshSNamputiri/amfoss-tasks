@@ -35,5 +35,34 @@ git checkout defenceAgainstTheDarkArts<br>
 The sphinx asked a riddle. The answer is "A Boggart". The spell used to counter a boggart is Riddikulus. When you execute it from spellbook you get a code. Copy it in Part_3.txt in codes
 
 ## FORTH CHALLENGE
+In the commit files of TerminalWizard repository, there is a commit which is secretly a hint for last spell. The spell is in 0x.Spell_0y.txt where x is the number of horcruxes voldemort make which is 7, and y is a number with number of alphabets the number is equal to the number itself which is 4.<br>
 
+## The spell is in a different branch named thegraveyard
+git checkout thegraveyard<br>
+## The spell is Priori Incantatem and when you execute the Priori Incantatem.py you get the code and copy it into Part_4.txt
+python3 'Priori Incantatem.py'
+
+## THE END
+
+Navigate to the 'codes' folder and concatenate all the contents of the file into a text file called finalcode.txt. After concatenating delete all the files except finalcode.txt.<br>
+
+# To decode the message,
+echo aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs | base64 --decode <br>
+You get this link <br>
+https://github.com/TheHuntsman4/TheFinalSpell
+
+## THE FINAL SPELL
+
+ You need to clone the repo and execute the python file and you ger this <br>
+
+![Alt text](https://github.com/HrishikeshSNamputiri/amfoss-tasks/blob/main/Task-01/champion.png) <br>
+
+Totally Worth it!!! <br>
+
+I cloned my amfoss-tasks repo and used these commands to upload to my repo<br>
+git add <file path> <br>
+git commit <br> 
+git push <br>
+<br>
+These command add to a bucket what you need to send, commit a what you want, and upload respectively.
 
